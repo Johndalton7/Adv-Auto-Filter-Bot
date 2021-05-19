@@ -353,10 +353,10 @@ async def cb_handler(bot, query:CallbackQuery, group=1):
     
     if cb_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/AlbertEinstein_TG'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot')
+            InlineKeyboardButton('My Developer', url='https://t.me/Madshifter'),
+            InlineKeyboardButton('join group 🧾', url ='https://t.me/cinema_clubadmin12')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+            InlineKeyboardButton('Join channel 💹', url='https://t.me/cinema_clubadmin123')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
