@@ -13,7 +13,7 @@ async def start(bot, update):
         InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/Madshifter'),
         InlineKeyboardButton('Join Group 🧾', url ='https://t.me/cinema_clubadmin12')
     ],[
-        InlineKeyboardButton('Join Channel', url='https://t.me/cinema_clubadmin123')
+        InlineKeyboardButton('Join Channel', url='https://t.me/cinema_clubadmin1')
     ],[
         InlineKeyboardButton('New ott channel', url='https://t.me/pakkismovieshub')
     ]]
