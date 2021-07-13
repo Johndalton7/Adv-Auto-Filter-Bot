@@ -10,12 +10,12 @@ from bot.translation import Translation # pylint: disable=import-error
 async def start(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/Madshifter'),
-        InlineKeyboardButton('Join Group 🧾', url ='https://t.me/cinema_clubadmin12')
+        InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/Johndalton_TG'),
+        InlineKeyboardButton('Join Group 🧾', url ='https://t.me/MF_CHATGROUP')
     ],[
-        InlineKeyboardButton('Join Channel', url='https://t.me/cinema_clubadmin1')
+        InlineKeyboardButton('Join Channel', url='https://t.me/MFMOVIES3')
     ],[
-        InlineKeyboardButton('New ott channel', url='https://t.me/pakkismovieshub')
+        InlineKeyboardButton('New ott channel', url='https://t.me/MF_UPDATES')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
